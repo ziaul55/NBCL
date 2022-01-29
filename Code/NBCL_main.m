@@ -1,6 +1,6 @@
 clear all
 close all
-clc    
+clc     
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% If you are using this code please cite the following paper:                                       %
 % Muhammad, U., Hoque, M.Z., Wang W., Oussalah, M., 2022.                                            % 
