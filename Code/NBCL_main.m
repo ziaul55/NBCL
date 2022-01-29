@@ -3,7 +3,7 @@ close all
 clc    
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% If you are using this code please cite the following paper:                                       %
-% Muhammad, U., Hoque, M.Z., Oussalah, M., 2022.                                                     % 
+% Muhammad, U., Hoque, M.Z., Wang W., Oussalah, M., 2022.                                                     % 
 % A Discriminative Neighborhood-Based Collaborative Learning for Remote Sensing Scene Classification % 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
