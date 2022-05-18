@@ -1,7 +1,7 @@
 ## [Patch-Based Discriminative Learning for Remote Sensing Scene Classification](https://www.techrxiv.org/articles/preprint/A_Discriminative_Neighborhood-Based_Collaborative_Learning_for_Remote_Sensing_Scene_Classification/16441593)
 #### Authors: Usman Muhammad, Md. Ziaul Hoque, Wang Weiqiang and Mourad Oussalah
 
-#### Journal: [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+#### Journal: [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
 ##
 
 ### Abstract
